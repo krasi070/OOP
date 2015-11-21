@@ -1,6 +1,0 @@
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\01.DefiningClasses\Exercise\01.DifineClassDog\bin\Debug\01.DifineClassDog.exe.config
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\01.DefiningClasses\Exercise\01.DifineClassDog\obj\Debug\01.DifineClassDog.csprojResolveAssemblyReference.cache
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\01.DefiningClasses\Exercise\01.DifineClassDog\bin\Debug\01.DifineClassDog.exe
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\01.DefiningClasses\Exercise\01.DifineClassDog\bin\Debug\01.DifineClassDog.pdb
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\01.DefiningClasses\Exercise\01.DifineClassDog\obj\Debug\01.DifineClassDog.exe
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\01.DefiningClasses\Exercise\01.DifineClassDog\obj\Debug\01.DifineClassDog.pdb
