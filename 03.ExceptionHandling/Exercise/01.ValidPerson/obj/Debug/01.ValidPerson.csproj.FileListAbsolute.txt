@@ -1,6 +1,0 @@
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\03.ExceptionHandling\Exercise\01.ValidPerson\bin\Debug\01.ValidPerson.exe.config
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\03.ExceptionHandling\Exercise\01.ValidPerson\bin\Debug\01.ValidPerson.exe
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\03.ExceptionHandling\Exercise\01.ValidPerson\bin\Debug\01.ValidPerson.pdb
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\03.ExceptionHandling\Exercise\01.ValidPerson\obj\Debug\01.ValidPerson.csprojResolveAssemblyReference.cache
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\03.ExceptionHandling\Exercise\01.ValidPerson\obj\Debug\01.ValidPerson.exe
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\03.ExceptionHandling\Exercise\01.ValidPerson\obj\Debug\01.ValidPerson.pdb
