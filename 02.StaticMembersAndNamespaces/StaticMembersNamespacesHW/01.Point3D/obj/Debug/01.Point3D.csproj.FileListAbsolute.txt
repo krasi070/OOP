@@ -1,9 +1,0 @@
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\02.StaticMembersAndNamespaces\StaticMembersNamespacesHW\01.Point3D\bin\Debug\01.Point3D.exe.config
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\02.StaticMembersAndNamespaces\StaticMembersNamespacesHW\01.Point3D\obj\Debug\01.Point3D.csprojResolveAssemblyReference.cache
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\02.StaticMembersAndNamespaces\StaticMembersNamespacesHW\01.Point3D\bin\Debug\01.Point3D.exe
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\02.StaticMembersAndNamespaces\StaticMembersNamespacesHW\01.Point3D\bin\Debug\01.Point3D.pdb
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\02.StaticMembersAndNamespaces\StaticMembersNamespacesHW\01.Point3D\obj\Debug\01.Point3D.exe
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\02.StaticMembersAndNamespaces\StaticMembersNamespacesHW\01.Point3D\obj\Debug\01.Point3D.pdb
-C:\Users\user\Desktop\StaticMembersNamespacesHW\01.Point3D\bin\Debug\01.Point3D.exe.config
-C:\Users\user\Desktop\StaticMembersNamespacesHW\01.Point3D\obj\Debug\01.Point3D.exe
-C:\Users\user\Desktop\StaticMembersNamespacesHW\01.Point3D\obj\Debug\01.Point3D.pdb

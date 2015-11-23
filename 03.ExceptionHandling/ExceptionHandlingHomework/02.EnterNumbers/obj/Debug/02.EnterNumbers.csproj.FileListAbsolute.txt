@@ -1,6 +1,0 @@
-C:\Users\user\Desktop\ExceptionHandlingHomework\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config
-C:\Users\user\Desktop\ExceptionHandlingHomework\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
-C:\Users\user\Desktop\ExceptionHandlingHomework\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
-C:\Users\user\Desktop\ExceptionHandlingHomework\02.EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\ExceptionHandlingHomework\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
-C:\Users\user\Desktop\ExceptionHandlingHomework\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb

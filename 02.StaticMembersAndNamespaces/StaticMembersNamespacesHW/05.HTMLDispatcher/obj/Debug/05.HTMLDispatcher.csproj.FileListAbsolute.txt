@@ -1,6 +1,0 @@
-C:\Users\user\Desktop\StaticMembersNamespacesHW\05.HTMLDispatcher\bin\Debug\05.HTMLDispatcher.exe.config
-C:\Users\user\Desktop\StaticMembersNamespacesHW\05.HTMLDispatcher\bin\Debug\05.HTMLDispatcher.exe
-C:\Users\user\Desktop\StaticMembersNamespacesHW\05.HTMLDispatcher\bin\Debug\05.HTMLDispatcher.pdb
-C:\Users\user\Desktop\StaticMembersNamespacesHW\05.HTMLDispatcher\obj\Debug\05.HTMLDispatcher.csprojResolveAssemblyReference.cache
-C:\Users\user\Desktop\StaticMembersNamespacesHW\05.HTMLDispatcher\obj\Debug\05.HTMLDispatcher.exe
-C:\Users\user\Desktop\StaticMembersNamespacesHW\05.HTMLDispatcher\obj\Debug\05.HTMLDispatcher.pdb
