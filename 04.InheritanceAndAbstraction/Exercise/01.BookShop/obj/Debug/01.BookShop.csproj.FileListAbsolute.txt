@@ -1,0 +1,6 @@
+D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\04.InheritanceAndAbstraction\Exercise\01.BookShop\bin\Debug\01.BookShop.exe.config
+D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\04.InheritanceAndAbstraction\Exercise\01.BookShop\bin\Debug\01.BookShop.exe
+D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\04.InheritanceAndAbstraction\Exercise\01.BookShop\bin\Debug\01.BookShop.pdb
+D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\04.InheritanceAndAbstraction\Exercise\01.BookShop\obj\Debug\01.BookShop.csprojResolveAssemblyReference.cache
+D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\04.InheritanceAndAbstraction\Exercise\01.BookShop\obj\Debug\01.BookShop.exe
+D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\04.InheritanceAndAbstraction\Exercise\01.BookShop\obj\Debug\01.BookShop.pdb
