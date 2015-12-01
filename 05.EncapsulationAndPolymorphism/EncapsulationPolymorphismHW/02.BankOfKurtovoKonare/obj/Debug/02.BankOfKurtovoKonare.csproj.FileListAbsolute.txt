@@ -1,6 +1,0 @@
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\05.EncapsulationAndPolymorphism\EncapsulationPolymorphismHW\02.BankOfKurtovoKonare\bin\Debug\02.BankOfKurtovoKonare.exe.config
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\05.EncapsulationAndPolymorphism\EncapsulationPolymorphismHW\02.BankOfKurtovoKonare\obj\Debug\02.BankOfKurtovoKonare.csprojResolveAssemblyReference.cache
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\05.EncapsulationAndPolymorphism\EncapsulationPolymorphismHW\02.BankOfKurtovoKonare\bin\Debug\02.BankOfKurtovoKonare.exe
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\05.EncapsulationAndPolymorphism\EncapsulationPolymorphismHW\02.BankOfKurtovoKonare\bin\Debug\02.BankOfKurtovoKonare.pdb
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\05.EncapsulationAndPolymorphism\EncapsulationPolymorphismHW\02.BankOfKurtovoKonare\obj\Debug\02.BankOfKurtovoKonare.exe
-D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\05.EncapsulationAndPolymorphism\EncapsulationPolymorphismHW\02.BankOfKurtovoKonare\obj\Debug\02.BankOfKurtovoKonare.pdb
