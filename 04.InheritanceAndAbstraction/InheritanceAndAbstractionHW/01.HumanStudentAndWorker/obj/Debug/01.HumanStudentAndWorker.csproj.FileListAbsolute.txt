@@ -1,6 +1,0 @@
-G:\InheritanceAndAbstractionHW\01.HumanStudentAndWorker\bin\Debug\01.HumanStudentAndWorker.exe.config
-G:\InheritanceAndAbstractionHW\01.HumanStudentAndWorker\bin\Debug\01.HumanStudentAndWorker.exe
-G:\InheritanceAndAbstractionHW\01.HumanStudentAndWorker\bin\Debug\01.HumanStudentAndWorker.pdb
-G:\InheritanceAndAbstractionHW\01.HumanStudentAndWorker\obj\Debug\01.HumanStudentAndWorker.csprojResolveAssemblyReference.cache
-G:\InheritanceAndAbstractionHW\01.HumanStudentAndWorker\obj\Debug\01.HumanStudentAndWorker.exe
-G:\InheritanceAndAbstractionHW\01.HumanStudentAndWorker\obj\Debug\01.HumanStudentAndWorker.pdb

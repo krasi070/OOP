@@ -1,5 +1,0 @@
-D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\05.EncapsulationAndPolymorphism\EncapsulationPolymorphismHW\03.TheSlum\obj\Debug\TheSlum.exe
-D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\05.EncapsulationAndPolymorphism\EncapsulationPolymorphismHW\03.TheSlum\obj\Debug\TheSlum.pdb
-D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\05.EncapsulationAndPolymorphism\EncapsulationPolymorphismHW\03.TheSlum\bin\Debug\TheSlum.exe
-D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\05.EncapsulationAndPolymorphism\EncapsulationPolymorphismHW\03.TheSlum\bin\Debug\TheSlum.pdb
-D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\05.EncapsulationAndPolymorphism\EncapsulationPolymorphismHW\03.TheSlum\obj\Debug\03.TheSlum.csprojResolveAssemblyReference.cache
