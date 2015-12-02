@@ -1,0 +1,2 @@
+C:\Users\User\Desktop\04. OOP-Encapsulation-and-Polymorphism-Exercise-1\AnimalFarm\bin\Debug\AnimalFarm.exe.config
+D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\05.EncapsulationAndPolymorphism\Exercise\01.AnimalFarm\bin\Debug\AnimalFarm.exe.config

@@ -15,7 +15,6 @@ namespace _03.CompanyHierarchy.SalesAndProjects
             this.Price = price;
         }
 
-
         public string ProductName
         {
             get

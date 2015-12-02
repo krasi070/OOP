@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+C:\Users\user\Desktop\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+C:\Users\user\Desktop\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+C:\Users\user\Desktop\04. Encapsulation-and-Polymorphism-Homework\TheSlum-Skeleton\obj\Debug\TheSlum.pdb
+G:\EncapsulationPolymorphismHW\TheSlum\obj\Debug\TheSlum.exe
+G:\EncapsulationPolymorphismHW\TheSlum\obj\Debug\TheSlum.pdb
+D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\05.EncapsulationAndPolymorphism\EncapsulationPolymorphismHW\TheSlum\obj\Debug\TheSlum.exe
+D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\05.EncapsulationAndPolymorphism\EncapsulationPolymorphismHW\TheSlum\obj\Debug\TheSlum.pdb

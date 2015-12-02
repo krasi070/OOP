@@ -19,7 +19,7 @@ public abstract class Animal : ISoundProducable
         {
             return this.name;
         }
-        set
+        private set
         {
             if (value == null)
             {
@@ -36,7 +36,7 @@ public abstract class Animal : ISoundProducable
         {
             return this.age;
         }
-        set
+        private set
         {
             if (value < 0)
             {
@@ -53,7 +53,7 @@ public abstract class Animal : ISoundProducable
         {
             return this.gender;
         }
-        set
+        private set
         {
             if (value != "F" && value != "M")
             {

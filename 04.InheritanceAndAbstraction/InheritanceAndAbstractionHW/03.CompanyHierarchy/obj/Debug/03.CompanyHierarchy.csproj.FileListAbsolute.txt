@@ -1,0 +1,12 @@
+D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\04.InheritanceAndAbstraction\InheritanceAndAbstractionHW\03.CompanyHierarchy\bin\Debug\03.CompanyHierarchy.exe.config
+D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\04.InheritanceAndAbstraction\InheritanceAndAbstractionHW\03.CompanyHierarchy\obj\Debug\03.CompanyHierarchy.csprojResolveAssemblyReference.cache
+D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\04.InheritanceAndAbstraction\InheritanceAndAbstractionHW\03.CompanyHierarchy\bin\Debug\03.CompanyHierarchy.exe
+D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\04.InheritanceAndAbstraction\InheritanceAndAbstractionHW\03.CompanyHierarchy\bin\Debug\03.CompanyHierarchy.pdb
+D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\04.InheritanceAndAbstraction\InheritanceAndAbstractionHW\03.CompanyHierarchy\obj\Debug\03.CompanyHierarchy.exe
+D:\SoftUni\01.Fundamental Level\03.Object-Oriented Programming\04.InheritanceAndAbstraction\InheritanceAndAbstractionHW\03.CompanyHierarchy\obj\Debug\03.CompanyHierarchy.pdb
+G:\InheritanceAndAbstractionHW\03.CompanyHierarchy\bin\Debug\03.CompanyHierarchy.exe.config
+G:\InheritanceAndAbstractionHW\03.CompanyHierarchy\obj\Debug\03.CompanyHierarchy.exe
+G:\InheritanceAndAbstractionHW\03.CompanyHierarchy\obj\Debug\03.CompanyHierarchy.pdb
+G:\InheritanceAndAbstractionHW\03.CompanyHierarchy\bin\Debug\03.CompanyHierarchy.exe
+G:\InheritanceAndAbstractionHW\03.CompanyHierarchy\bin\Debug\03.CompanyHierarchy.pdb
+G:\InheritanceAndAbstractionHW\03.CompanyHierarchy\obj\Debug\03.CompanyHierarchy.csprojResolveAssemblyReference.cache
