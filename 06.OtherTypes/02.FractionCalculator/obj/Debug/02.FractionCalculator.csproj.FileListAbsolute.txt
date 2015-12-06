@@ -1,0 +1,6 @@
+D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\06.OtherTypes\01.GalacticGPS\02.FractionCalculator\bin\Debug\02.FractionCalculator.exe.config
+D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\06.OtherTypes\01.GalacticGPS\02.FractionCalculator\obj\Debug\02.FractionCalculator.csprojResolveAssemblyReference.cache
+D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\06.OtherTypes\01.GalacticGPS\02.FractionCalculator\bin\Debug\02.FractionCalculator.exe
+D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\06.OtherTypes\01.GalacticGPS\02.FractionCalculator\bin\Debug\02.FractionCalculator.pdb
+D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\06.OtherTypes\01.GalacticGPS\02.FractionCalculator\obj\Debug\02.FractionCalculator.exe
+D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\06.OtherTypes\01.GalacticGPS\02.FractionCalculator\obj\Debug\02.FractionCalculator.pdb
