@@ -1,8 +1,0 @@
-D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\06.OtherTypes\01.GalacticGPS\04.GenericListVersion\bin\Debug\04.GenericListVersion.exe.config
-D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\06.OtherTypes\01.GalacticGPS\04.GenericListVersion\bin\Debug\04.GenericListVersion.exe
-D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\06.OtherTypes\01.GalacticGPS\04.GenericListVersion\bin\Debug\04.GenericListVersion.pdb
-D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\06.OtherTypes\01.GalacticGPS\04.GenericListVersion\bin\Debug\03.GenericList.exe
-D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\06.OtherTypes\01.GalacticGPS\04.GenericListVersion\bin\Debug\03.GenericList.pdb
-D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\06.OtherTypes\01.GalacticGPS\04.GenericListVersion\obj\Debug\04.GenericListVersion.csprojResolveAssemblyReference.cache
-D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\06.OtherTypes\01.GalacticGPS\04.GenericListVersion\obj\Debug\04.GenericListVersion.exe
-D:\SoftUni\02.Fundamental Level\03.Object-Oriented Programming\06.OtherTypes\01.GalacticGPS\04.GenericListVersion\obj\Debug\04.GenericListVersion.pdb
